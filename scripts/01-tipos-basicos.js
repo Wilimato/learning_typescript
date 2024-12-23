@@ -1,0 +1,10 @@
+"use strict";
+let texto = 'Hola mundo';
+let numero = 123;
+let booleano = true;
+let hoy = new Date();
+let cualquierCosita = 'Hola';
+cualquierCosita = 123;
+let cualquiera = 'Hola';
+cualquiera = 123;
+cualquiera = true;
